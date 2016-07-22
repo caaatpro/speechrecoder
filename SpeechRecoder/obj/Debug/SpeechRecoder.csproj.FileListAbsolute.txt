@@ -1,0 +1,6 @@
+C:\caaat\git\SpeechRecoder\SpeechRecoder\SpeechRecoder\bin\Debug\SpeechRecoder.exe.config
+C:\caaat\git\SpeechRecoder\SpeechRecoder\SpeechRecoder\bin\Debug\SpeechRecoder.exe
+C:\caaat\git\SpeechRecoder\SpeechRecoder\SpeechRecoder\bin\Debug\SpeechRecoder.pdb
+C:\caaat\git\SpeechRecoder\SpeechRecoder\SpeechRecoder\obj\Debug\SpeechRecoder.csprojResolveAssemblyReference.cache
+C:\caaat\git\SpeechRecoder\SpeechRecoder\SpeechRecoder\obj\Debug\SpeechRecoder.exe
+C:\caaat\git\SpeechRecoder\SpeechRecoder\SpeechRecoder\obj\Debug\SpeechRecoder.pdb
